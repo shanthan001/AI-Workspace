@@ -31,7 +31,7 @@ To have a local copy of this project up and running on your local machine you wi
 
 ### Online
 * Linkedin Learning - Getting started with AI and Machine Learning
-* Machine Learning Course - https://www.coursera.org/learn/machine-learning-course/
+* Machine Learning Course by Andrew Ng- https://www.coursera.org/learn/machine-learning-course/
 * 3Blue 1Brown - https://www.3blue1brown.com/
 * My Professor's Github 😄 - https://github.com/trappenberg/FML
 
